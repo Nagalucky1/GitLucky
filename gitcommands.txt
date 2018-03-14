@@ -1,5 +1,5 @@
 GIT Commands Tutorial
-Learn what are and how to use the most common GIT commands
+
 This tutorial provides a list of the most common GIT commands, a short description for them and example usage. For a detailed description of all the GIT commands please check this page.
 
 git config
