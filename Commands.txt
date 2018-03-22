@@ -1,0 +1,5 @@
+1.list all branches --> git branch -a
+2.list remote branches --> git branch -r
+3.changing from an branch to other --> git checkout branchName
+4.Create a new branch
+
