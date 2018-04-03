@@ -3,3 +3,4 @@
 3.changing from an branch to other --> git checkout branchName
 4.Create a new branch
 5.
+6.
